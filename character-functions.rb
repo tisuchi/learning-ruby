@@ -7,6 +7,7 @@ puts varaiableName[11]
 puts varaiableName.index("M")
 puts varaiableName[0, 4]
 puts varaiableName.include? "Islamic"
+puts varaiableName.strip()
 
 
 # Read more: http://www.rubyist.net/~slagell/ruby/strings.html
