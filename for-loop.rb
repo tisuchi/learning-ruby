@@ -11,3 +11,19 @@ puts "##################"
 friends.each do |friend|
     puts friend
 end
+
+
+puts "##################"
+puts "For loop with number range."
+
+for index in 0..10
+    puts index
+end
+
+
+puts "##################"
+puts "Loop with times"
+
+5.times do |index|
+    puts index
+end
