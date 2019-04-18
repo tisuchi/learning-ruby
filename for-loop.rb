@@ -27,3 +27,9 @@ puts "Loop with times"
 5.times do |index|
     puts index
 end
+
+=begin
+This should be the comment
+block where it can be
+more than one line.
+=end
